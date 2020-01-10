@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="bc63d3f8-58e9-404a-9a37-5df814e1bea9" name="47.106.206.150" url="http://47.106.206.150">
-        <fileTransfer host="47.106.206.150" port="22" rootFolder="/var/www/html/tomcat/webapps" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="2d4082d9-72aa-4692-b911-13ac38dcce72" name="server" url="http://47.106.206.150">
-        <fileTransfer host="47.106.206.150" port="22" rootFolder="/var/tomcat" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-    </option>
-  </component>
+	<component name="WebServers">
+		<option name="servers">
+			<webServer id="bc63d3f8-58e9-404a-9a37-5df814e1bea9"
+				name="47.106.206.150" url="http://47.106.206.150">
+				<fileTransfer host="47.106.206.150" port="22"
+					rootFolder="/var/www/html/tomcat/webapps" accessType="SFTP">
+					<advancedOptions>
+						<advancedOptions controlEncoding="UTF-8"
+							dataProtectionLevel="Private" passiveMode="true"
+							shareSSLContext="true" />
+					</advancedOptions>
+					<option name="port" value="22" />
+				</fileTransfer>
+			</webServer>
+			<webServer id="2d4082d9-72aa-4692-b911-13ac38dcce72"
+				name="server" url="http://47.106.206.150">
+				<fileTransfer host="47.106.206.150" port="22"
+					rootFolder="/var/tomcat" accessType="SFTP">
+					<advancedOptions>
+						<advancedOptions controlEncoding="utf-8"
+							dataProtectionLevel="Private" passiveMode="true"
+							shareSSLContext="true" />
+					</advancedOptions>
+					<option name="port" value="22" />
+				</fileTransfer>
+			</webServer>
+		</option>
+	</component>
 </project>

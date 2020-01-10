@@ -1,278 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="wwj" />
-    </artifacts-to-build>
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="00d6f749-d4d4-4de2-8b1e-1fae3d002d4c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="myweb" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-        <option value="spring-beans.schema" />
-        <option value="Jsp File" />
-        <option value="Class" />
-        <option value="Interface" />
-      </list>
-    </option>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1S6w9kMzgLJMBRZKr3f9q4sBEgH" />
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.6229885" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\src\main\resources" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\lib" />
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\web\images" />
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\web" />
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\src\main\resources" />
-      <recent name="C:\Users\WWJ\IdeaProjects\myweb\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="wwj.service" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="wwj.dao" />
-      <recent name="wwj.service" />
-      <recent name="wwj.bean" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Tomcat Server.Server Tomcat 8.5.45">
-    <configuration name="myweb [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="clean" />
-              </list>
-            </option>
-            <option name="pomFileName" value="pom.xml" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="myweb [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="compile" />
-              </list>
-            </option>
-            <option name="pomFileName" value="pom.xml" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="Server Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="LOCAL" value="false" />
-      <option name="UPDATING_POLICY" value="hot-swap-classes" />
-      <deployment>
-        <artifact name="wwj">
-          <settings>
-            <option name="CONTEXT_PATH" value="/wwj" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <data>
-          <option name="targets">
-            <list>
-              <WatchedTargetModelImpl>
-                <option name="name" value="CONTEXT_XML" />
-                <option name="transportStagingTarget">
-                  <TransportTarget>
-                    <option name="id" value="ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8" />
-                    <id>ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8</id>
-                  </TransportTarget>
-                </option>
-                <option name="watchedLocalPath" value="" />
-                <watched-path />
-                <name>CONTEXT_XML</name>
-                <transport-target>
-                  <TransportTarget>
-                    <option name="id" value="ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8" />
-                    <id>ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8</id>
-                  </TransportTarget>
-                </transport-target>
-              </WatchedTargetModelImpl>
-              <StagingTargetModelImpl>
-                <option name="name" value="STAGING" />
-                <option name="stagingRemotePath" value="/" />
-                <option name="transportStagingTarget">
-                  <TransportTarget>
-                    <option name="id" value="bacee1e5-7f60-4b9e-862c-cde745ea37ce" />
-                    <id>bacee1e5-7f60-4b9e-862c-cde745ea37ce</id>
-                  </TransportTarget>
-                </option>
-                <staging-path>/</staging-path>
-                <name>STAGING</name>
-                <transport-target>
-                  <TransportTarget>
-                    <option name="id" value="bacee1e5-7f60-4b9e-862c-cde745ea37ce" />
-                    <id>bacee1e5-7f60-4b9e-862c-cde745ea37ce</id>
-                  </TransportTarget>
-                </transport-target>
-              </StagingTargetModelImpl>
-            </list>
-          </option>
-          <option name="transportHostId" value="2d4082d9-72aa-4692-b911-13ac38dcce72" />
-          <host-id>2d4082d9-72aa-4692-b911-13ac38dcce72</host-id>
-        </data>
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="54653" />
-        <option name="LOCAL" value="false" />
-      </RunnerSettings>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="wwj" />
-        </option>
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Maven.myweb [clean]" />
-      <item itemvalue="Maven.myweb [compile]" />
-      <item itemvalue="Tomcat Server.Server Tomcat 8.5.45" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Maven.myweb [compile]" />
-        <item itemvalue="Maven.myweb [clean]" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="00d6f749-d4d4-4de2-8b1e-1fae3d002d4c" name="Default Changelist" comment="" />
-      <created>1570897203954</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1570897203954</updated>
-      <workItem from="1570897208211" duration="349000" />
-      <workItem from="1570897812512" duration="31000" />
-      <workItem from="1570897883304" duration="100000" />
-      <workItem from="1570963199391" duration="2162000" />
-      <workItem from="1571500754751" duration="4400000" />
-      <workItem from="1571505191792" duration="2199000" />
-      <workItem from="1571581956019" duration="6420000" />
-      <workItem from="1571630696721" duration="4323000" />
-      <workItem from="1572619147780" duration="116000" />
-      <workItem from="1572677034377" duration="6284000" />
-      <workItem from="1573698320598" duration="5937000" />
-      <workItem from="1573707702442" duration="924000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web/header.jsp</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
+	<component name="ArtifactsWorkspaceSettings">
+		<artifacts-to-build>
+			<artifact name="wwj" />
+		</artifacts-to-build>
+	</component>
+	<component name="ChangeListManager">
+		<list default="true" id="00d6f749-d4d4-4de2-8b1e-1fae3d002d4c"
+			name="Default Changelist" comment="" />
+		<option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+		<option name="SHOW_DIALOG" value="false" />
+		<option name="HIGHLIGHT_CONFLICTS" value="true" />
+		<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+		<option name="LAST_RESOLUTION" value="IGNORE" />
+	</component>
+	<component name="DatabaseView">
+		<option name="SHOW_INTERMEDIATE" value="true" />
+		<option name="GROUP_DATA_SOURCES" value="true" />
+		<option name="GROUP_SCHEMA" value="true" />
+		<option name="GROUP_CONTENTS" value="false" />
+		<option name="SORT_POSITIONED" value="false" />
+		<option name="SHOW_EMPTY_GROUPS" value="false" />
+		<option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+		<option name="HIDDEN_KINDS">
+			<set />
+		</option>
+		<expand />
+		<select />
+	</component>
+	<component name="FavoritesManager">
+		<favorites_list name="myweb" />
+	</component>
+	<component name="FileTemplateManagerImpl">
+		<option name="RECENT_TEMPLATES">
+			<list>
+				<option value="HTML File" />
+				<option value="JavaScript File" />
+				<option value="spring-beans.schema" />
+				<option value="Jsp File" />
+				<option value="Class" />
+				<option value="Interface" />
+			</list>
+		</option>
+	</component>
+	<component name="LogFilters">
+		<option name="FILTER_ERRORS" value="false" />
+		<option name="FILTER_WARNINGS" value="false" />
+		<option name="FILTER_INFO" value="true" />
+		<option name="FILTER_DEBUG" value="true" />
+		<option name="CUSTOM_FILTER" />
+	</component>
+	<component name="MavenImportPreferences">
+		<option name="importingSettings">
+			<MavenImportingSettings>
+				<option name="importAutomatically" value="true" />
+			</MavenImportingSettings>
+		</option>
+	</component>
+	<component name="ProjectId" id="1S6w9kMzgLJMBRZKr3f9q4sBEgH" />
+	<component name="PropertiesComponent">
+		<property name="DefaultHtmlFileTemplate" value="HTML File" />
+		<property name="WebServerToolWindowFactoryState" value="true" />
+		<property
+			name="WebServerToolWindowPanel.toolwindow.highlight.mappings"
+			value="true" />
+		<property
+			name="WebServerToolWindowPanel.toolwindow.highlight.symlinks"
+			value="true" />
+		<property
+			name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+		<property
+			name="WebServerToolWindowPanel.toolwindow.show.permissions"
+			value="false" />
+		<property
+			name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+		<property name="aspect.path.notification.shown" value="true" />
+		<property name="last_opened_file_path"
+			value="$PROJECT_DIR$/web" />
+		<property name="project.structure.last.edited"
+			value="Artifacts" />
+		<property name="project.structure.proportion" value="0.15" />
+		<property name="project.structure.side.proportion"
+			value="0.6229885" />
+		<property name="settings.editor.selected.configurable"
+			value="reference.projectsettings.compiler.javacompiler" />
+	</component>
+	<component name="RecentsManager">
+		<key name="MoveFile.RECENT_KEYS">
+			<recent
+				name="C:\Users\WWJ\IdeaProjects\myweb\src\main\resources" />
+		</key>
+		<key name="CopyFile.RECENT_KEYS">
+			<recent name="C:\Users\WWJ\IdeaProjects\myweb\lib" />
+			<recent name="C:\Users\WWJ\IdeaProjects\myweb\web\images" />
+			<recent name="C:\Users\WWJ\IdeaProjects\myweb\web" />
+			<recent
+				name="C:\Users\WWJ\IdeaProjects\myweb\src\main\resources" />
+			<recent name="C:\Users\WWJ\IdeaProjects\myweb\src\main\java" />
+		</key>
+		<key name="CopyClassDialog.RECENTS_KEY">
+			<recent name="wwj.service" />
+		</key>
+		<key name="CreateClassDialog.RecentsKey">
+			<recent name="wwj.dao" />
+			<recent name="wwj.service" />
+			<recent name="wwj.bean" />
+		</key>
+	</component>
+	<component name="RunDashboard">
+		<option name="ruleStates">
+			<list>
+				<RuleState>
+					<option name="name"
+						value="ConfigurationTypeDashboardGroupingRule" />
+				</RuleState>
+				<RuleState>
+					<option name="name" value="StatusDashboardGroupingRule" />
+				</RuleState>
+			</list>
+		</option>
+	</component>
+	<component name="RunManager"
+		selected="Tomcat Server.Server Tomcat 8.5.45">
+		<configuration name="myweb [clean]"
+			type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+			<MavenSettings>
+				<option name="myGeneralSettings" />
+				<option name="myRunnerSettings" />
+				<option name="myRunnerParameters">
+					<MavenRunnerParameters>
+						<option name="profiles">
+							<set />
+						</option>
+						<option name="goals">
+							<list>
+								<option value="clean" />
+							</list>
+						</option>
+						<option name="pomFileName" value="pom.xml" />
+						<option name="profilesMap">
+							<map />
+						</option>
+						<option name="resolveToWorkspace" value="false" />
+						<option name="workingDirPath" value="$PROJECT_DIR$" />
+					</MavenRunnerParameters>
+				</option>
+			</MavenSettings>
+			<method v="2" />
+		</configuration>
+		<configuration name="myweb [compile]"
+			type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+			<MavenSettings>
+				<option name="myGeneralSettings" />
+				<option name="myRunnerSettings" />
+				<option name="myRunnerParameters">
+					<MavenRunnerParameters>
+						<option name="profiles">
+							<set />
+						</option>
+						<option name="goals">
+							<list>
+								<option value="compile" />
+							</list>
+						</option>
+						<option name="pomFileName" value="pom.xml" />
+						<option name="profilesMap">
+							<map />
+						</option>
+						<option name="resolveToWorkspace" value="false" />
+						<option name="workingDirPath" value="$PROJECT_DIR$" />
+					</MavenRunnerParameters>
+				</option>
+			</MavenSettings>
+			<method v="2" />
+		</configuration>
+		<configuration name="Server Tomcat 8.5.45"
+			type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory"
+			factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.5.45"
+			ALTERNATIVE_JRE_ENABLED="false">
+			<option name="LOCAL" value="false" />
+			<option name="UPDATING_POLICY" value="hot-swap-classes" />
+			<deployment>
+				<artifact name="wwj">
+					<settings>
+						<option name="CONTEXT_PATH" value="/wwj" />
+					</settings>
+				</artifact>
+			</deployment>
+			<server-settings>
+				<data>
+					<option name="targets">
+						<list>
+							<WatchedTargetModelImpl>
+								<option name="name" value="CONTEXT_XML" />
+								<option name="transportStagingTarget">
+									<TransportTarget>
+										<option name="id"
+											value="ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8" />
+										<id>ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8</id>
+									</TransportTarget>
+								</option>
+								<option name="watchedLocalPath" value="" />
+								<watched-path />
+								<name>CONTEXT_XML</name>
+								<transport-target>
+									<TransportTarget>
+										<option name="id"
+											value="ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8" />
+										<id>ea430a46-1a89-4d5a-b3b1-e5f2616a5eb8</id>
+									</TransportTarget>
+								</transport-target>
+							</WatchedTargetModelImpl>
+							<StagingTargetModelImpl>
+								<option name="name" value="STAGING" />
+								<option name="stagingRemotePath" value="/" />
+								<option name="transportStagingTarget">
+									<TransportTarget>
+										<option name="id"
+											value="bacee1e5-7f60-4b9e-862c-cde745ea37ce" />
+										<id>bacee1e5-7f60-4b9e-862c-cde745ea37ce</id>
+									</TransportTarget>
+								</option>
+								<staging-path>/</staging-path>
+								<name>STAGING</name>
+								<transport-target>
+									<TransportTarget>
+										<option name="id"
+											value="bacee1e5-7f60-4b9e-862c-cde745ea37ce" />
+										<id>bacee1e5-7f60-4b9e-862c-cde745ea37ce</id>
+									</TransportTarget>
+								</transport-target>
+							</StagingTargetModelImpl>
+						</list>
+					</option>
+					<option name="transportHostId"
+						value="2d4082d9-72aa-4692-b911-13ac38dcce72" />
+					<host-id>2d4082d9-72aa-4692-b911-13ac38dcce72</host-id>
+				</data>
+			</server-settings>
+			<predefined_log_file enabled="true" id="Tomcat" />
+			<predefined_log_file enabled="true"
+				id="TOMCAT_LOCALHOST_LOG_ID" />
+			<RunnerSettings RunnerId="Debug">
+				<option name="DEBUG_PORT" value="54653" />
+				<option name="LOCAL" value="false" />
+			</RunnerSettings>
+			<method v="2">
+				<option name="Make" enabled="true" />
+				<option name="BuildArtifacts" enabled="true">
+					<artifact name="wwj" />
+				</option>
+			</method>
+		</configuration>
+		<list>
+			<item itemvalue="Maven.myweb [clean]" />
+			<item itemvalue="Maven.myweb [compile]" />
+			<item itemvalue="Tomcat Server.Server Tomcat 8.5.45" />
+		</list>
+		<recent_temporary>
+			<list>
+				<item itemvalue="Maven.myweb [compile]" />
+				<item itemvalue="Maven.myweb [clean]" />
+			</list>
+		</recent_temporary>
+	</component>
+	<component name="SvnConfiguration">
+		<configuration />
+	</component>
+	<component name="TaskManager">
+		<task active="true" id="Default" summary="Default task">
+			<changelist id="00d6f749-d4d4-4de2-8b1e-1fae3d002d4c"
+				name="Default Changelist" comment="" />
+			<created>1570897203954</created>
+			<option name="number" value="Default" />
+			<option name="presentableId" value="Default" />
+			<updated>1570897203954</updated>
+			<workItem from="1570897208211" duration="349000" />
+			<workItem from="1570897812512" duration="31000" />
+			<workItem from="1570897883304" duration="100000" />
+			<workItem from="1570963199391" duration="2162000" />
+			<workItem from="1571500754751" duration="4400000" />
+			<workItem from="1571505191792" duration="2199000" />
+			<workItem from="1571581956019" duration="6420000" />
+			<workItem from="1571630696721" duration="4323000" />
+			<workItem from="1572619147780" duration="116000" />
+			<workItem from="1572677034377" duration="6284000" />
+			<workItem from="1573698320598" duration="5937000" />
+			<workItem from="1573707702442" duration="924000" />
+		</task>
+		<servers />
+	</component>
+	<component name="TypeScriptGeneratedFilesManager">
+		<option name="version" value="1" />
+	</component>
+	<component name="XDebuggerManager">
+		<breakpoint-manager>
+			<breakpoints>
+				<line-breakpoint enabled="true" type="java-line">
+					<url>file://$PROJECT_DIR$/web/header.jsp</url>
+					<line>13</line>
+					<option name="timeStamp" value="1" />
+				</line-breakpoint>
+			</breakpoints>
+		</breakpoint-manager>
+	</component>
 </project>
